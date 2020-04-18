@@ -1,0 +1,2 @@
+# KusoGenerator
+草
